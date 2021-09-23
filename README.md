@@ -1,3 +1,3 @@
 # Hello-World
 # I'm James.
-# I'min Comp Sci 30.
+# I'm in Comp Sci 30.
